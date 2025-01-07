@@ -1,0 +1,13 @@
+- Brew
+- PNPM (Brew)
+- Corepack (Brew)
+- Amazon Q Developer for CommandLine
+- OrbStack
+- BetterDisplay
+- Karabiner
+- Raycast
+- Notion
+- VS Code
+- fnm
+- XCode Tool
+- Beekeeper

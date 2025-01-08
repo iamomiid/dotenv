@@ -1,6 +1,8 @@
 - Brew
 - PNPM (Brew)
 - Corepack (Brew)
+- Kubectl (Brew)
+- AWSCLI (Brew)
 - Amazon Q Developer for CommandLine
 - OrbStack
 - BetterDisplay

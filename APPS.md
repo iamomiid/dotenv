@@ -10,6 +10,13 @@
 - Raycast
 - Notion
 - VS Code
+- Cursor
 - fnm
 - XCode Tool
 - Beekeeper
+- Bartender
+- Terminal (Change font to 12 and full black background)
+- Perplexity
+- ChatGPT
+- Postman
+- Stats (Brew)

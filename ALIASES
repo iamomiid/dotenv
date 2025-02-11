@@ -39,3 +39,5 @@ alias c='clear'
 alias cls='clear'
 alias pn='pnpm'
 alias dcu='docker compose up'
+
+source "${0:A:h}/LOCAL-ALIASES"

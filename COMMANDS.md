@@ -15,5 +15,5 @@ ssh-keygen -t ed25519 -C ""
 ```
 
 ```
-git config --global user.signingkey ~/.ssh/id_ed25519
+git config --global user.signingkey ~/.ssh/id_ed25519.pub
 ```
